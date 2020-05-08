@@ -27,12 +27,12 @@ appium-doctor
 > create Android AVD  
 
 配置夜神模拟器  
-教程https://blog.csdn.net/fbb1995/article/details/79869772
-如遇链接问题https://blog.csdn.net/sunruirui1028/article/details/79805629
-配置Android模拟器
-https://blog.csdn.net/w690333243/article/details/93046451
+教程https://blog.csdn.net/fbb1995/article/details/79869772  
+如遇链接问题https://blog.csdn.net/sunruirui1028/article/details/79805629  
+配置Android模拟器  
+https://blog.csdn.net/w690333243/article/details/93046451  
 
-运行之前同时开启两种模拟器
+运行之前同时开启两种模拟器  
 ## run
 ```
 appium
