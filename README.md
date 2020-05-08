@@ -42,4 +42,10 @@ mvn test
 如需测试完整功能需debug包，并且apk包含机器签名  
 
 此次dom操作单一从黑盒角度设计，测试用例较为脆弱，期待后续develop与test联动，debug过程中定义好定位器及方法
-本次测试没有过多的封装以及异常处理，时间仓促可能会有问题，欢迎随时交流
+本次测试没有过多的封装以及异常处理，时间仓促可能会有问题，欢迎随时交流  
+
+## 演示效果  
+
+启动淘宝app  
+
+<video src="https://vd3.bdstatic.com/mda-ke7u19bsrmyx7hjv/v1-cae/mda-ke7u19bsrmyx7hjv.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
